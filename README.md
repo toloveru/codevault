@@ -8,4 +8,4 @@ Most of my code is already quite old and bad code too. Code of my current projec
 
 Do I want my code to be archived? No, I really do not. Was it a good idea to just treat every public repository as "eh, it's public anyway, privacy be damned"? In my opinion, not at all. How difficult was it to ask developers to opt their repositories into this thing, on a case-by-case basis? Without the need to archive and/or pull out repositories entirely, breaking many things in the process? Big brain there Microsoft. Bless you and your ways!
 
-As of 2020-03-18 my repositories are now hosted [here](https://ghnou.su/gitea/ghnou).
+As of 2020-03-18 my repositories are now hosted [here](https://git.ghnou.su). My personal account there is [ghnou](https://git.ghnou.su/ghnou), though a lot of code is now put into organizations instead.
